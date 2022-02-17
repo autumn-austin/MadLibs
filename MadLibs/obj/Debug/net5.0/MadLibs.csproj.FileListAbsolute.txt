@@ -1,0 +1,16 @@
+D:\autum\Code\Practice\Mad Libs\MadLibs\bin\Debug\net5.0\MadLibs.exe
+D:\autum\Code\Practice\Mad Libs\MadLibs\bin\Debug\net5.0\MadLibs.deps.json
+D:\autum\Code\Practice\Mad Libs\MadLibs\bin\Debug\net5.0\MadLibs.runtimeconfig.json
+D:\autum\Code\Practice\Mad Libs\MadLibs\bin\Debug\net5.0\MadLibs.runtimeconfig.dev.json
+D:\autum\Code\Practice\Mad Libs\MadLibs\bin\Debug\net5.0\MadLibs.dll
+D:\autum\Code\Practice\Mad Libs\MadLibs\bin\Debug\net5.0\ref\MadLibs.dll
+D:\autum\Code\Practice\Mad Libs\MadLibs\bin\Debug\net5.0\MadLibs.pdb
+D:\autum\Code\Practice\Mad Libs\MadLibs\obj\Debug\net5.0\MadLibs.csproj.AssemblyReference.cache
+D:\autum\Code\Practice\Mad Libs\MadLibs\obj\Debug\net5.0\MadLibs.GeneratedMSBuildEditorConfig.editorconfig
+D:\autum\Code\Practice\Mad Libs\MadLibs\obj\Debug\net5.0\MadLibs.AssemblyInfoInputs.cache
+D:\autum\Code\Practice\Mad Libs\MadLibs\obj\Debug\net5.0\MadLibs.AssemblyInfo.cs
+D:\autum\Code\Practice\Mad Libs\MadLibs\obj\Debug\net5.0\MadLibs.csproj.CoreCompileInputs.cache
+D:\autum\Code\Practice\Mad Libs\MadLibs\obj\Debug\net5.0\MadLibs.dll
+D:\autum\Code\Practice\Mad Libs\MadLibs\obj\Debug\net5.0\ref\MadLibs.dll
+D:\autum\Code\Practice\Mad Libs\MadLibs\obj\Debug\net5.0\MadLibs.pdb
+D:\autum\Code\Practice\Mad Libs\MadLibs\obj\Debug\net5.0\MadLibs.genruntimeconfig.cache
